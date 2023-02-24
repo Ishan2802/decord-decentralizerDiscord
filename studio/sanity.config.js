@@ -7,7 +7,7 @@ export default defineConfig({
   name: 'default',
   title: 'discord-clone-blockchain',
 
-  projectId: 'u4bk1309',
+  projectId: '4al2ahif',
   dataset: 'production',
 
   plugins: [deskTool(), visionTool()],
